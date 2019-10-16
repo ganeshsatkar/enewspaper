@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "544985076166",
+    "firebase_url": "https://impex-industrial-kitchen.firebaseio.com",
+    "project_id": "impex-industrial-kitchen",
+    "storage_bucket": "impex-industrial-kitchen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544985076166:android:a3d36bb2a464ee5df822c7",
+        "android_client_info": {
+          "package_name": "grdp.ganeshinc.newspaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544985076166-k945vdrl42bnbft0condpig7be7m7rb6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "grdp.ganeshinc.newspaper",
+            "certificate_hash": "cf6d157cf0a2ef8bbf495b1c82d8b776c5db1431"
+          }
+        },
+        {
+          "client_id": "544985076166-5fkco1nj9fjd2edifp8nvm8vec4f5c3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqf0rGJrmZ60-Wdcmb8l6BsysjWx1YKbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544985076166-5fkco1nj9fjd2edifp8nvm8vec4f5c3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7233052509464359~5708920239"
+    }
+  ],
+  "configuration_version": "1"
+}
